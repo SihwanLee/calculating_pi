@@ -12,6 +12,7 @@ This is a repository for uploading the various methods I've used in calculating 
 
 ## Monte Carlo Approach
 ![image3](./images/monte_carlo_method.png)<br/>
+(출처: [https://medium.com/@kim_hjun/monte-carlo-method-%EA%B7%B8-%EB%B0%9C%EC%A0%84%EC%9D%98-%EC%97%AD%EC%82%AC-1-5eb5c33fe5fe](https://medium.com/@kim_hjun/monte-carlo-method-%EA%B7%B8-%EB%B0%9C%EC%A0%84%EC%9D%98-%EC%97%AD%EC%82%AC-1-5eb5c33fe5fe))<br/>
 처음에 시도했던 방법이 이 `Monte Carlo Approach`이다. 하지만 워낙 랜덤성이 강하고, 완벽히 정확한 값을 구하기에는 무작위성이 강한 방법이라, 우리가 구하고자하는 원주율 값에 가까이 갈 때도 있었지만, 작게는 0.01에서 크게는 0.03까지 차이나는 경우도 볼 수 있었다.<br/><br/>
 
 ## Nilakantha Series
